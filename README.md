@@ -1,7 +1,6 @@
 # WebApp - PacmanMaze
 
-PacmanMaze is een variant op het bekende spelletje Pacman. De bedoeling is dat je zo veel mogelijk levels kunt halen zonder dood te gaan. 
-
+PacmanMaze is een variant op het bekende spelletje Pacman. De naam zegt het zelf Pacman moet op zoek door een doolhof om de finish te vinden het doel is dat je zoveel mogelijk levels kan halen zonder dood te gaan.
 
 ## Use-case:
 
