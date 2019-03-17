@@ -1,4 +1,6 @@
-# WebApp - Pacman
+# WebApp - PacmanMaze
+
+PacmanMaze is een variant op het bekende spelletje Pacman. De bedoeling is dat je zo veel mogelijk levels kunt halen zonder dood te gaan. 
 
 
 ## Use-case:
