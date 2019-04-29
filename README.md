@@ -10,8 +10,8 @@ Ik zal deze webapp maken met p5.js (front-end) en SQLite + Flask (back-end). Ik 
 
 ## ER-diagram:
 
-[![ER.png](https://i.postimg.cc/Vsg8cnZq/ER.png)](https://postimg.cc/grx5VXWj)
+[![ER.png](https://i.postimg.cc/L8pKx14x/ER.png)](https://postimg.cc/F7DBR1LS)
 
 ## Table-diagram:
 
-[![Table.png](https://i.postimg.cc/j5PnLQcr/Table.png)](https://postimg.cc/Vrskht27)
+[![Table.png](https://i.postimg.cc/tJNtywPZ/Table.png)](https://postimg.cc/Fk1JVPTN)
